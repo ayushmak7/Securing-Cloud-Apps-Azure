@@ -15,6 +15,7 @@ I built, hosted and designed a cyber-blog web application using Azure’s Cloud 
 
 - <b>Microsoft Azure</b>
 - <b>Docker</b>
+- <b>Ansible</b>
 
 <h2>Program walk-through:</h2>
 
