@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-I built, hosted and designed a cyber-blog web application using Azure’s Cloud services and Docker. Then I created and stored SSL certificates in Azure’s Key Vault, and bound them to secure the web application and lastly, protected the web application by utilizing Azure’s Security features, such as Azure’s Front Door, WAF, and Security Center.
+I built, hosted and designed a cyber-blog web application using Azure’s Cloud services and Docker. Then, I created and stored SSL certificates in Azure’s Key Vault, and bound them to secure the web application and lastly, protected the web application by utilizing Azure’s Security features, such as Azure’s Front Door, WAF, and Security Center.
 <br />
 
 
