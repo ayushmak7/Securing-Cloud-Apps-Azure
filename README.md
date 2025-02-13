@@ -28,11 +28,14 @@ Secured my web app with a SSL certificate:  <br/>
 <img src="https://i.imgur.com/Xbspif5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Created an Azure Front Door instance for my web app: <br/>
+ 
+<b>Azure Front Door enabled:</b><br>Azure Front Door is a service provided by Microsoft Azure, designed to optimize global web traffic HTTP/HTTPS and improve performance by providing high availability, load balancing, and application acceleration. It uses Layer 7 routing to distribute traffic across multiple regions. With built-in Web Application Firewall (WAF) capabilities, Azure Front Door enhances security by protecting against DDoS attacks, bot threats, and common web vulnerabilities.
+<br/>
 <img src="https://i.imgur.com/vX2JRjV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Configured custom WAF rules:  <br/>
+
+<b>A WAF custom rule:</b><br>When using Azure Front Door with WAF, WAF policies are applied at the Front Door edge locations, meaning incoming traffic is inspected and filtered before reaching the backend servers. Azure WAF is a security service that protects web applications from attacks like SQL injection, cross-site scripting (XSS), and DDoS threats.
 <img src="https://i.imgur.com/jBTkvva.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
