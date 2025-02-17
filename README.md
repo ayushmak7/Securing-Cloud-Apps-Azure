@@ -36,7 +36,7 @@ Secured my web app with a SSL certificate:  <br/>
 <br />
 <br />
 
-<b>A WAF custom rule:</b><br>When using Azure Front Door with WAF, WAF policies are applied at the Front Door edge locations, meaning incoming traffic is inspected and filtered before reaching the backend servers. Azure WAF is a security service that protects web applications from attacks like SQL injection, cross-site scripting (XSS), and DDoS threats.
+<b>Configured WAF custom rule:</b><br>When using Azure Front Door with WAF, WAF policies are applied at the Front Door edge locations, meaning incoming traffic is inspected and filtered before reaching the backend servers. Azure WAF is a security service that protects web applications from attacks like SQL injection, cross-site scripting (XSS), and DDoS threats.
 <p align="center">
 <img src="https://i.imgur.com/jBTkvva.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
